@@ -12,7 +12,7 @@ Use ![Face Recognition API](https://github.com/waslleysouza/face_recognition_api
 
 ### Video
 
-![Video](facerec.mp4)
+![Video](facerec.gif)
 
 
 ### License
